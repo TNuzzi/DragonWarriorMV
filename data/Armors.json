@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"atypeId":1,"description":"","etypeId":2,"traits":[],"iconIndex":0,"name":"Small Shield","note":"","params":[0,0,0,4,0,0,0,0],"price":90},
+{"id":2,"atypeId":1,"description":"","etypeId":2,"traits":[],"iconIndex":0,"name":"Large Shield","note":"","params":[0,0,0,10,0,0,0,0],"price":800},
+{"id":3,"atypeId":1,"description":"","etypeId":2,"traits":[],"iconIndex":0,"name":"Silver Shield","note":"","params":[0,0,0,20,0,0,0,0],"price":14800},
+{"id":4,"atypeId":1,"description":"","etypeId":3,"traits":[],"iconIndex":0,"name":"Clothes","note":"","params":[0,0,0,2,0,0,0,0],"price":20},
+{"id":5,"atypeId":1,"description":"","etypeId":3,"traits":[],"iconIndex":0,"name":"Leather Armor","note":"","params":[0,0,0,4,0,0,0,0],"price":70},
+{"id":6,"atypeId":1,"description":"","etypeId":3,"traits":[],"iconIndex":0,"name":"Chain Mail","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
+{"id":7,"atypeId":1,"description":"","etypeId":3,"traits":[],"iconIndex":0,"name":"Half Plate","note":"","params":[0,0,0,16,0,0,0,0],"price":1000},
+{"id":8,"atypeId":1,"description":"","etypeId":3,"traits":[],"iconIndex":0,"name":"Full Plate","note":"","params":[0,0,0,24,0,0,0,0],"price":3000},
+{"id":9,"atypeId":1,"description":"","etypeId":3,"traits":[],"iconIndex":0,"name":"Magic Armor","note":"","params":[0,0,0,24,0,0,0,0],"price":7700},
+{"id":10,"atypeId":1,"description":"","etypeId":3,"traits":[],"iconIndex":0,"name":"Erdrick's Armor","note":"","params":[0,0,0,28,0,0,0,0],"price":1}
+]

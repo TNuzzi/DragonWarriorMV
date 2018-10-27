@@ -1,0 +1,5 @@
+.DS_Store
+Project1/
+DragonWarrior/data/Test_*.json
+!DragonWarrior/data/Test_DW_Classes.json
+
